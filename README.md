@@ -12,8 +12,8 @@
 ## K-means 기법
 ### Step 0: 변수의 준비와 초기화
 Mu: 클러스터의 중심 벡터, R: 각 데이터의 클래스 지시 변수
-![image](https://user-images.githubusercontent.com/24853452/103458098-2d6c7a00-4d48-11eb-88e2-060f4a6d0b06.png) {:.alignleft}
+![image](https://user-images.githubusercontent.com/24853452/103458098-2d6c7a00-4d48-11eb-88e2-060f4a6d0b06.png){:.alignleft}
 
 ### Step 1: R의 갱신
 각 데이터 점을 가장 중심이 가까운 클러스터에 넣어 R을 갱신
-![image](https://user-images.githubusercontent.com/24853452/103458101-36f5e200-4d48-11eb-9890-832b408f528e.png) {:.
+![image](https://user-images.githubusercontent.com/24853452/103458101-36f5e200-4d48-11eb-9890-832b408f528e.png) 
