@@ -22,5 +22,7 @@ Mu: 클러스터의 중심 벡터, R: 각 데이터의 클래스 지시 변수
 각 클러스터에 속하는 데이터 점의 중심을 새로운 Mu로 갱신
 ![image](https://user-images.githubusercontent.com/24853452/103458256-a0c2bb80-4d49-11eb-995e-f5b9e9d9c8ad.png)
 
-이후에는 Step 1rhk Step 2의 절차를 반복하여 변수의 값이 변화하지 않으면 프로그램 종료
+이후에는 Step 1과 Step 2의 절차를 반복하여 변수의 값이 변화하지 않으면 프로그램 종료 <br/>
+이 경우, 총 6버회 반복으로 변화하지 않게 되었다.
 
+![image](https://user-images.githubusercontent.com/24853452/103458372-9654f180-4d4a-11eb-9c48-913047795baf.png)
