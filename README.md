@@ -38,4 +38,5 @@ Step 6에서 왜곡 척도의 값이 멈춘다. 이는 Mu와 R의 값이 변화�
 ### 확률적 클러스터링
 K-means 기법은 데이터 점을 반드시 클러스터에 할당<br/> -> 클러스터 k에 속할 확률로 확장<br/>
 **가우시안 혼합 모델** : 2차원 가우스 함수 여러 개를 합친 것
-
+각각의 k에 대해 pi, mu, sigma
+![image](https://user-images.githubusercontent.com/24853452/103460965-13d62d00-4d5e-11eb-9f5b-c5080d84ba8b.png)
